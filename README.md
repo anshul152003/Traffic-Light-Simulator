@@ -36,4 +36,4 @@ This project is a simple traffic light simulator built with React and Vite.
 
 6. Linting the Project
    To lint the project, run:
-   npm run list#
+   npm run list
